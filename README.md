@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David From Hong Kong
-- 👀 I’m interested in Software engineering, Financial engineering, Blockchain and Data Science
+- 👀 I’m interested in Software engineering, Financial engineering, Blockchain and Data science
 - 🌱 I’m currently learning Blockchain
 - 📫 How to reach me https://hk.linkedin.com/in/david-ko-a2425910a
 
