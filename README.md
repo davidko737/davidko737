@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David From Hong Kong
-- 👀 Interested in Coding, Blockchain, Data science and Financial engineering
+- 👀 Interested in Coding and Financial engineering
 - 🌱 Currently learning Blockchain
 - 📚 Recent reading: Mastering Ethereum: Building Smart Contracts and DApps
 - 📫 How to reach me: https://hk.linkedin.com/in/david-ko-a2425910a
